@@ -31,4 +31,4 @@ This is a simple quiz game created using CustomTkinter and PIL (Python Imaging L
 
 To run the quiz game, execute the following command:
 ```bash
-python gui.py
+python Qiz game.py
