@@ -1,19 +1,7 @@
                                                                        # Quiz Game
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Demo Image/title>
-</head>
-<body>
-    <h1>My Image</h1>
-    <img src="assets/page_1.jpg" alt="Example Image" width="300" height="200">
-</body>
-</html>
-
-
+![Alt text](assets/page_1.png)
 
 This is a simple quiz game created using CustomTkinter and PIL (Python Imaging Library) in Python. The game presents questions with three options for each question and keeps track of the user's score.
 
