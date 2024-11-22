@@ -1,7 +1,8 @@
                                                                        # Quiz Game
 
 
-![Alt text](assets/page_1.png)
+<div style="display: flex; justify-content: center;"><img src="assets/page_1.png" alt="Image 1" width="200" height="150"><img src="assests/page_2.png" alt="Image 2" width="200" height="150"><img src="assets/layout.jpg" alt="Image 3" width="200" height="150"></div>
+
 
 This is a simple quiz game created using CustomTkinter and PIL (Python Imaging Library) in Python. The game presents questions with three options for each question and keeps track of the user's score.
 
