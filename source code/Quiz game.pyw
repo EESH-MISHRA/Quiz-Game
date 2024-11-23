@@ -86,8 +86,8 @@ def final_window():
     user_label = CTkLabel(root,text=user_name,font=font_1,bg_color="white",text_color="Black")
     user_label.place(x=10,y=50)
     font_2 = CTkFont(family="arial",size=40,weight="bold")
-    final_score = CTkLabel(root,text=f"WOO HOO ! \n\nYou Scored :- {score}",font=font_2,bg_color="#8b5dfe",text_color="White")
-    final_score.place(relx=0.3,rely=0.5,x=55)
+    final_score = CTkLabel(root,text=f"WOO HOO ! \n\nYou Scored :- {score}/{len(questions)*10}",font=font_2,bg_color="#8b5dfe",text_color="White")
+    final_score.place(relx=0.3,rely=0.5,x=35)
 
     
 
