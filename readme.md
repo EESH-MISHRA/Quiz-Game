@@ -1,4 +1,4 @@
-                                                                       # Quiz Game
+                            # Quiz Game
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/page_1.png" alt="Image 1" width="200" height="150">
